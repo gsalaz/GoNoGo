@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="divider">#000000</color>
+    <color name="gray">#8C8C8C</color>
+    <color name="grayTint">#408C8C8C</color>
+    <color name="green">#9400FB0A</color>
+    <color name="dark_green">#298347</color>
+    <color name="red">#CED11C4F</color>
+    <color name="dark_red">#B5830202</color>
+    <!-- complementary color currently used in splash screen -->
+    <color name="splash_green1">#499441</color>
+    <color name="splash_green2">#ACFFA3</color>
+    <color name="splash_green3">#83E078</color>
+</resources>

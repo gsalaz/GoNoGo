@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Go-No-Go</string>
+    <string name="title_activity_test_result_pop_up">TestResultPopUp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="password_requirements">Password must be at least 6 characters with 1 letter and 1 number.</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="account_login">Account Login</string>
+    <string name="test_result_text">Test Result</string>
+    <string name="highscore_text">Recent score: %s</string>
+    <string name="GoNoGo_instructions">
+        Welcome to the Go-No-Go test!  Once the test begins, you will
+        be prompted with either a \"Go\" or \"No Go\" event.  Tap as fast as possible for
+        \"Go,\" and make sure NOT to tap the screen when \"No Go\" appears.  When the trial is finished,
+        you\'ll be able to see a breakdown of your score and, if you\'re logged in, how you compare
+        to other users!
+    </string>
+    <string name="ReactionTest_instructions">
+        This is a simple reaction test.  When the lower section of the screen flashes GREEN, tap as
+        quickly as you can!  If you don\'t react in time, the screen will flash RED.
+        When ready, click the button in the middle of the test area!
+    </string>
+</resources>
